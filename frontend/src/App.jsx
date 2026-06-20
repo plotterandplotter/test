@@ -1,8 +1,8 @@
 function App() {
   return (
     <div>
-      <h1>Привіт, React!</h1>
-      <p>Мій перший frontend-проєкт.</p>
+      <h1>Hello World!</h1>
+      <p>Test</p>
     </div>
   )
 }
